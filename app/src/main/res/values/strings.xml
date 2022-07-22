@@ -1,15 +1,15 @@
 <resources>
     <string name="app_name">Affirmation</string>
 
-    <string name="Affirmation1">I am strong.</string>
-    <string name="Affirmation2">I believe in myself.</string>
-    <string name="Affirmation3">يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسْتَعِينُواْ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ</string>
-    <string name="Affirmation4">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="Affirmation5">َإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا</string>
-    <string name="Affirmation6">I can do it, and I will</string>
-    <string name="Affirmation7">وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا</string>
-    <string name="Affirmation8">نقاوم ما نحب ونتحمل ما نكره</string>
-    <string name="Affirmation9">Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</string>
-    <string name="Affirmation10">You cannot control the behavior of others, but you can always choose how you respond to it.</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسْتَعِينُواْ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ</string>
+    <string name="affirmation4">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation5">َإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا</string>
+    <string name="affirmation6">I can do it, and I will</string>
+    <string name="affirmation7">وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا</string>
+    <string name="affirmation8">نقاوم ما نحب ونتحمل ما نكره</string>
+    <string name="affirmation9">Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</string>
+    <string name="affirmation10">You cannot control the behavior of others, but you can always choose how you respond to it.</string>
 
 </resources>
