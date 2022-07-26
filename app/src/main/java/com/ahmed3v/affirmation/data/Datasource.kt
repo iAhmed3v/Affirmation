@@ -3,6 +3,9 @@ package com.ahmed3v.affirmation.data
 import com.ahmed3v.affirmation.R
 import com.ahmed3v.affirmation.model.Affirmation
 
+/**
+ * [Datasource] generates a list of [Affirmation]
+ */
 class Datasource {
 
     fun loadAffirmations() : List<Affirmation> {
