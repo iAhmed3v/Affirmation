@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Affirmation</string>
+    <string name="app_name">Affirmations</string>
 
     <string name="affirmation1">I am strong.</string>
     <string name="affirmation2">I believe in myself.</string>
